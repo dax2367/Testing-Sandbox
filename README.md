@@ -10,9 +10,6 @@ If time allows we will add more features such as:
   * emergency
 * NOTAMS
 * Preflight aviation weather forcasts.
-
-![Check Route](https://github.com/dax2367/AircraftChecklist/blob/master/PreflightImgs/275x211p47-thunderbolt-preflight-check.jpg)
-
 ---
 
 # User Stories
